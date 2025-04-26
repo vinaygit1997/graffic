@@ -1,2 +1,7 @@
 # Graffic Project
 This is my first push to GitHub from VS Code.
+# Graffic Project
+This is my first push to GitHub from VS Code.
+# Graffic Project
+This is my first push to GitHub from VS Code.
+
